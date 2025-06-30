@@ -25,9 +25,7 @@ class MainMenuState extends MusicBeatState
 
 	//Centered/Text options
 	var optionShit:Array<String> = [
-		'story_mode',
 		'freeplay',
-		#if MODS_ALLOWED 'mods', #end
 		'credits'
 	];
 
@@ -293,15 +291,8 @@ class MainMenuState extends MusicBeatState
 				{
 					switch (option)
 					{
-						case 'story_mode':
-							MusicBeatState.switchState(new StoryMenuState());
 						case 'freeplay':
 							MusicBeatState.switchState(new FreeplayState());
-
-						#if MODS_ALLOWED
-						case 'mods':
-							MusicBeatState.switchState(new ModsMenuState());
-						#end
 
 						#if ACHIEVEMENTS_ALLOWED
 						case 'achievements':

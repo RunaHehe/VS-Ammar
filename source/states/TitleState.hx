@@ -527,34 +527,60 @@ class TitleState extends MusicBeatState
 					FlxG.sound.playMusic(Paths.music('freakyMenu'), 0);
 					FlxG.sound.music.fadeIn(4, 0, 0.7);
 				case 2:
-					createCoolText(['Psych Engine by'], 40);
+					createCoolText(['Mod by'], 40);
 				case 4:
-					addMoreText('Shadow Mario', 40);
-					addMoreText('Riveren', 40);
+					addMoreText('Lunar', 40);
 				case 5:
 					deleteCoolText();
 				case 6:
-					createCoolText(['Not associated', 'with'], -40);
+					createCoolText(['Go play'], 40);
 				case 8:
-					addMoreText('newgrounds', -40);
-					ngSpr.visible = true;
+					addMoreText('AAC', 40);
+					ngSpr.visible = false;
 				case 9:
 					deleteCoolText();
 					ngSpr.visible = false;
 				case 10:
-					createCoolText([curWacky[0]]);
+					createCoolText(['Runa'], 40);
 				case 12:
-					addMoreText(curWacky[1]);
+					addMoreText('Stop meowing', 40);
 				case 13:
 					deleteCoolText();
 				case 14:
-					addMoreText('Friday');
+					createCoolText(['Ammar'], 40);
 				case 15:
-					addMoreText('Night');
+					addMoreText('Is', 40);
 				case 16:
-					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
-
+					addMoreText('Green', 40);
 				case 17:
+					deleteCoolText();
+				case 18:
+					createCoolText(['Subscribe'], 40);
+				case 20:
+					addMoreText('To Runa', 40);
+				case 21:
+					deleteCoolText();
+				case 22:
+					createCoolText(['Can you stop'], 40);
+				case 24:
+					addMoreText('Fucking around', 40);
+				case 25:
+					deleteCoolText();
+				case 26:
+					createCoolText(['Lunar made me', 'Compile this'], 40);
+				case 28:
+					addMoreText('-Runa', 40);
+				case 29:
+					deleteCoolText();
+					createCoolText(['VS']);
+				case 30:
+					addMoreText('An Ammar');
+				case 31:
+					addMoreText('The Green Boy');
+				case 32:
+					addMoreText('Meow', 40);
+				case 33:
+					deleteCoolText();
 					skipIntro();
 			}
 		}
