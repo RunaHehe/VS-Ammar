@@ -1,0 +1,2 @@
+v1 = height (0 = default)
+v2 = type (0 = default, 1 = move strums, 2 = place under hud)

@@ -1,0 +1,3 @@
+value 1 = time
+value 2 = contrast
+if time == 0.3, time = 3 seconds

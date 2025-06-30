@@ -1,0 +1,4 @@
+Value 1: Enable (1) or Disable (0) the effect for the player
+
+
+Value 2: Enable (1) or Disable (0) the effect for the opponent

@@ -1,0 +1,4 @@
+Value 1: Enable or Disable the effect
+
+Setting the first value to 0 or leaving it blank will disable it.
+Setting the first value to 1 will enable it.
