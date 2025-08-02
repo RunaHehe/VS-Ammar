@@ -1,0 +1,305 @@
+{
+    "events": [
+        [
+            3000,
+            [
+                [
+                    "Must Hit Camera",
+                    "bf",
+                    "4,CLASSIC,0,0"
+                ]
+            ]
+        ],
+        [
+            6000,
+            [
+                [
+                    "Must Hit Camera",
+                    "dad",
+                    "4,CLASSIC,0,0"
+                ]
+            ]
+        ],
+        [
+            9000,
+            [
+                [
+                    "Must Hit Camera",
+                    "bf",
+                    "32,cubeIn,0,0"
+                ]
+            ]
+        ],
+        [
+            11906.25,
+            [
+                [
+                    "Change Camera Bop",
+                    "1",
+                    "1.3"
+                ]
+            ]
+        ],
+        [
+            12000,
+            [
+                [
+                    "Tween Camera Zoom",
+                    "0.85,10",
+                    "quadOut,stage"
+                ]
+            ]
+        ],
+        [
+            12000,
+            [
+                [
+                    "Must Hit Camera",
+                    "dad",
+                    "6,expoOut,0,0"
+                ]
+            ]
+        ],
+        [
+            18000,
+            [
+                [
+                    "Must Hit Camera",
+                    "bf",
+                    "4,CLASSIC,0,0"
+                ]
+            ]
+        ],
+        [
+            24000,
+            [
+                [
+                    "Tween Camera Zoom",
+                    "0.65,15",
+                    "expoOut,stage"
+                ]
+            ]
+        ],
+        [
+            24000,
+            [
+                [
+                    "Must Hit Camera",
+                    "gf",
+                    "4,CLASSIC,0,110"
+                ]
+            ]
+        ],
+        [
+            27000,
+            [
+                [
+                    "Tween Camera Zoom",
+                    "0.8,8",
+                    "expoOut,stage"
+                ]
+            ]
+        ],
+        [
+            28125,
+            [
+                [
+                    "Tween Camera Zoom",
+                    "0.75,4",
+                    "expoOut,stage"
+                ]
+            ]
+        ],
+        [
+            28500,
+            [
+                [
+                    "Tween Camera Zoom",
+                    "0.65,4",
+                    "expoOut,stage"
+                ]
+            ]
+        ],
+        [
+            33000,
+            [
+                [
+                    "Tween Camera Zoom",
+                    "0.8,4",
+                    "expoOut,stage"
+                ]
+            ]
+        ],
+        [
+            34125,
+            [
+                [
+                    "Tween Camera Zoom",
+                    "0.75,4",
+                    "expoOut,stage"
+                ]
+            ]
+        ],
+        [
+            34500,
+            [
+                [
+                    "Tween Camera Zoom",
+                    "0.65,4",
+                    "expoOut,stage"
+                ]
+            ]
+        ],
+        [
+            36000,
+            [
+                [
+                    "Tween Camera Zoom",
+                    "0.95,8",
+                    "expoOut,stage"
+                ]
+            ]
+        ],
+        [
+            36000,
+            [
+                [
+                    "Change Camera Bop",
+                    "2",
+                    "1.1"
+                ]
+            ]
+        ],
+        [
+            36000,
+            [
+                [
+                    "Must Hit Camera",
+                    "dad",
+                    "4,CLASSIC,0,0"
+                ]
+            ]
+        ],
+        [
+            39000,
+            [
+                [
+                    "Must Hit Camera",
+                    "bf",
+                    "4,CLASSIC,0,0"
+                ]
+            ]
+        ],
+        [
+            42000,
+            [
+                [
+                    "Must Hit Camera",
+                    "dad",
+                    "4,CLASSIC,0,0"
+                ]
+            ]
+        ],
+        [
+            45000,
+            [
+                [
+                    "Must Hit Camera",
+                    "bf",
+                    "4,CLASSIC,0,0"
+                ]
+            ]
+        ],
+        [
+            48000,
+            [
+                [
+                    "Must Hit Camera",
+                    "dad",
+                    "4,CLASSIC,0,0"
+                ]
+            ]
+        ],
+        [
+            51000,
+            [
+                [
+                    "Must Hit Camera",
+                    "bf",
+                    "4,CLASSIC,0,0"
+                ]
+            ]
+        ],
+        [
+            54000,
+            [
+                [
+                    "Must Hit Camera",
+                    "gf",
+                    "7,expoOut,0,110"
+                ]
+            ]
+        ],
+        [
+            54000,
+            [
+                [
+                    "Tween Camera Zoom",
+                    "0.75,7",
+                    "expoOut,stage"
+                ]
+            ]
+        ],
+        [
+            54000,
+            [
+                [
+                    "Change Camera Bop",
+                    "1",
+                    "1.3"
+                ]
+            ]
+        ],
+        [
+            58500,
+            [
+                [
+                    "Tween Camera Zoom",
+                    "1.1,16",
+                    "expoIn,stage"
+                ]
+            ]
+        ],
+        [
+            60000,
+            [
+                [
+                    "Change Camera Bop",
+                    "8",
+                    "0.5"
+                ]
+            ]
+        ],
+        [
+            60000,
+            [
+                [
+                    "Tween Camera Zoom",
+                    "0.75,8",
+                    "expoOut,stage"
+                ]
+            ]
+        ],
+        [
+            60750,
+            [
+                [
+                    "Must Hit Camera",
+                    "gf",
+                    "38,quadInOut,0,-600"
+                ]
+            ]
+        ]
+    ],
+    "format": "psych_v1"
+}

@@ -1,0 +1,36 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"green-boy",
+			"green",
+			[
+				6,
+				233,
+				0
+			]
+		],
+		[
+			"ammar",
+			"green",
+			[
+				6,
+				73,
+				0
+			]
+		]
+	],
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

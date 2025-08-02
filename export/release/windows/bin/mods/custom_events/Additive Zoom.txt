@@ -1,0 +1,5 @@
+zoom that adds up over time
+
+value 1 = how much zoom you want to add to the current zoom (if you want to remove zoom do -number)
+
+value 2 = amount of time you want the tween to take (if left empty it will just zoom normally)
