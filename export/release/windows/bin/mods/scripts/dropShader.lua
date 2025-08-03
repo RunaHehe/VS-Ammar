@@ -2,7 +2,7 @@ function onCreatePost()
     addHaxeLibrary("DropShadowShader")
 
     runHaxeCode([[
-        // BF shader setup
+        // bf
         var bfRim = new DropShadowShader();
         bfRim.setAdjustColor(-20, 0, 0, 5);
         bfRim.color = 0xFF5F5F00;
@@ -13,7 +13,7 @@ function onCreatePost()
             bfRim.updateFrameInfo(game.boyfriend.frame);
         };
 
-        // Dad shader setup
+        // dad
         var dadRim = new DropShadowShader();
         dadRim.setAdjustColor(-20, 0, 0, 5);
         dadRim.color = 0xFF5F5F00;
@@ -24,7 +24,7 @@ function onCreatePost()
             dadRim.updateFrameInfo(game.dad.frame);
         };
 
-        // GF shader setup
+        // gf
         var gfRim = new DropShadowShader();
         gfRim.setAdjustColor(-20, 0, 0, 5);
         gfRim.color = 0xFF5F5F00;
