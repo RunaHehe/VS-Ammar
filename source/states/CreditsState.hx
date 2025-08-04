@@ -40,7 +40,7 @@ class CreditsState extends MusicBeatState
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			["Mod Team"],
 			["Lunar",				"lunar",			"Mod Director, Musician",								"https://www.youtube.com/@lunrl0l",				"7E1E1E"],
-			["Ammar",				"anammar",			"Charter, V-Slice/Official Mod Director"				"https://www.youtube.com/@anammar",				"00FF00"],
+			["Ammar",				"anammar",			"Charter, V-Slice/Official Mod Director",				"https://www.youtube.com/@anammar",				"00FF00"],
 			["Runa",				"runa",				"Main Programmer, Main Charter",						"https:youtube.com/@spookupt",					"880833"],
 			["Idoxd",				"idoxd",			"Main Artist",											"https://linktr.ee/idiotxd",					"5656FF"],
 			["Daveberry", 			"davebery",			"Programmer, Tester",									"https://daveberry.netlify.app",				"008BFF"],
