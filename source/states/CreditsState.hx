@@ -40,13 +40,16 @@ class CreditsState extends MusicBeatState
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			["Mod Team"],
 			["Lunar",				"lunar",			"Mod Director, Musician",								"https://www.youtube.com/@lunrl0l",				"7E1E1E"],
+			["Ammar",				"anammar",			"Charter, V-Slice/Official Mod Director"				"https://www.youtube.com/@anammar",				"00FF00"],
 			["Runa",				"runa",				"Main Programmer, Main Charter",						"https:youtube.com/@spookupt",					"880833"],
 			["Idoxd",				"idoxd",			"Main Artist",											"https://linktr.ee/idiotxd",					"5656FF"],
 			["Daveberry", 			"davebery",			"Programmer, Tester",									"https://daveberry.netlify.app",				"008BFF"],
 			["SuperX",				"superx",			"Charter, Programmer (Sorta)",							"https://www.youtube.com/channel/UCs6-WOQpMiOgrLj6ibpZ8CQ",				"A300D9"],
 			["SomeGuy", 			"someguy",			"Musician",												"https://www.youtube.com/channel/UC5l3zg7-CnL3t1cfZDlzZmw",				"2D2D2D"],
+			["VideoBot", 			"videobot", 		"Modcharter",											"https://www.youtube.com/channel/UC7Q9YHqBdroWwyPfSp8_yhA",				"4AFEE1"],
 			["Extra"],
-			["Dragos",				"noicon",			"Old Charter",											"https://www.youtube.com/channel/UCqMU48ixE4jNglK-mzZGc0w",				"23892F"]
+			["Dragos",				"noicon",			"Old Charter",											"https://www.youtube.com/channel/UCqMU48ixE4jNglK-mzZGc0w",				"23892F"],
+			["I hate coding this so much -Runa"]
 		];
 		
 		for(i in defaultList)
